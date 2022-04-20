@@ -1,0 +1,2 @@
+Texto de prueba para archivo01.
+Este archivo lo voy a utilizar para hacer pasaje de datos entre mi repositorio local y el repositorio de github.
